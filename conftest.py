@@ -3,6 +3,12 @@ from source.utilities.properties import ReadConfig
 from source.utilities import webdriver_manager as manager, helper
 
 
+@pytest.fixture(scope='session', autouse=True)
+def set_property():
+    yield
+    ReadConfig.write_to_report()
+
+
 @pytest.hookimpl(hookwrapper=True, tryfirst=True)
 def pytest_runtest_makereport(item, call):
     outcome = yield
