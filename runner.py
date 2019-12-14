@@ -12,5 +12,6 @@ class ReportPlugin:
         os.popen("allure generate "+globals.ALLURE_RESULTS +" --output "
                  +globals.ALLURE_REPORTS)
 
+
 argument = ['-q', '--alluredir', globals.ALLURE_RESULTS]
 pytest.main(argument, plugins=[ReportPlugin()])
