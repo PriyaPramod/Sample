@@ -3,92 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="77848986-d9bf-4d47-abc9-41563475f165" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/data/behaviors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/data/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/data/categories.csv" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/data/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/data/packages.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/data/suites.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/data/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/data/test-cases/a74ca326298bf5e0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/data/timeline.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/export/influxDbData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/export/mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/export/prometheusData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/history/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/history/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/history/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/history/history.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/history/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/plugins/behaviors/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/plugins/packages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/plugins/screen-diff/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/plugins/screen-diff/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/widgets/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/widgets/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/widgets/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/widgets/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/widgets/duration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/widgets/environment.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/widgets/executors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/widgets/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/widgets/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/widgets/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/widgets/severity.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/widgets/status-chart.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/widgets/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_24_50/widgets/summary.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/data/attachments/e8e15a789f351253.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/data/behaviors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/data/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/data/categories.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/data/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/data/packages.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/data/suites.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/data/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/data/test-cases/4a1062948fe04144.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/data/timeline.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/export/influxDbData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/export/mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/export/prometheusData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/history/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/history/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/history/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/history/history.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/history/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/plugins/behaviors/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/plugins/packages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/plugins/screen-diff/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/plugins/screen-diff/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/widgets/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/widgets/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/widgets/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/widgets/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/widgets/duration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/widgets/environment.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/widgets/executors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/widgets/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/widgets/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/widgets/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/widgets/severity.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/widgets/status-chart.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/widgets/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_reports/01_12_2019_10_28_07/widgets/summary.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_results/0ef2135c-9fe7-4e8d-be98-eb4270951b48-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_results/23c6af31-0ccc-4a23-bc1e-4cc0052be83c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/reports/allure_results/34adede0-574a-4951-804c-647e02edbe6d-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/runner.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/utilities/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/utilities/helper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/utilities/webdriver_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/utilities/webdriver_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_scripts/test_cart.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_scripts/test_cart.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/runner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="31">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -111,13 +28,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/utilities/globals.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="7" column="53" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/utilities/helper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="70">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -163,10 +95,10 @@
         <option value="$PROJECT_DIR$/source/pages/login_page.py" />
         <option value="$PROJECT_DIR$/source/pages/dashboard_page.py" />
         <option value="$PROJECT_DIR$/source/pages/cart_page.py" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/test_scripts/test_cart.py" />
         <option value="$PROJECT_DIR$/source/utilities/webdriver_manager.py" />
         <option value="$PROJECT_DIR$/source/utilities/helper.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/runner.py" />
       </list>
     </option>
@@ -183,6 +115,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,16 +123,10 @@
               <item name="amazon_automation" type="b2602c69:ProjectViewProjectNode" />
               <item name="amazon_automation" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="amazon_automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="amazon_automation" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -275,13 +202,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576854734719</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Report script updates">
+      <created>1576867132369</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576867132369</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19642857" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17336309" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -292,21 +227,21 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32850242" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32850242" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32850242" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14583333" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17336309" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32206118" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -331,7 +266,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Test" />
+    <MESSAGE value="Report script updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Report script updates" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/runner.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/source/pages/page_manager.py">
@@ -357,13 +304,6 @@
     <entry file="file://$PROJECT_DIR$/test_scripts/test_scr.py" />
     <entry file="file://$PROJECT_DIR$/resources/reports/allure_results/017a399f-148d-4389-97c0-c61f9bb16f57-container.json" />
     <entry file="file://$PROJECT_DIR$/resources/reports/allure_results/65a59afa-24c0-4f6c-823d-a15c9917ef49-result.json" />
-    <entry file="file://$PROJECT_DIR$/source/utilities/globals.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Project_one/amazon_automation/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -501,9 +441,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/utilities/selenium_actions.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_scripts/test_cart.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
@@ -533,27 +470,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/source/utilities/selenium_actions.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/source/utilities/helper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="70">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/utilities/globals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/runner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="31">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>

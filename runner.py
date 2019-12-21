@@ -14,7 +14,7 @@ class ReportPlugin:
 
 
 # Deleting the Json files of previous execution
-helper.delete_all_files_in_directory(globals.ALLURE_RESULTS)
+#helper.delete_all_files_in_directory(globals.ALLURE_RESULTS)
 
 requirement_file_path = "./requirements.txt"
 com = os.path.abspath(requirement_file_path)

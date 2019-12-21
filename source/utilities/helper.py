@@ -1,13 +1,7 @@
 from time import sleep
-
 import allure
 from pathlib import Path
 import os
-
-
-def attach_screen_shot(driver, name):
-    allure.attach(driver.get_screenshot_as_png(), name,
-                  attachment_type=allure.attachment_type.PNG)
 
 
 def delete_all_files_in_directory(directory_path):
@@ -18,3 +12,10 @@ def delete_all_files_in_directory(directory_path):
         if item.is_file():
             os.remove(directory_path + item.name)
     sleep(5)
+
+
+def attach_screen_shot(driver, name):
+    allure.attach(driver.get_screenshot_as_png(), name,
+                  attachment_type=allure.attachment_type.PNG)
+
+
